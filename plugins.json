@@ -17,9 +17,9 @@
       "keychord",
       "death"
     ],
-    "DownloadLinkInstall": "https://github.com/aauukerochan/deathkeychord/releases/download/1.0.0.0/DeathKeyChord.zip",
-    "DownloadLinkUpdate": "https://github.com/aauukerochan/deathkeychord/releases/download/1.0.0.0/DeathKeyChord.zip",
-    "DownloadLinkTesting": "https://github.com/aauukerochan/deathkeychord/releases/download/1.0.0.0/DeathKeyChord.zip",
+    "DownloadLinkInstall": "https://github.com/aauukerochan/deathkeychord/releases/download/1.0.0.0/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/aauukerochan/deathkeychord/releases/download/1.0.0.0/latest.zip",
+    "DownloadLinkTesting": "https://github.com/aauukerochan/deathkeychord/releases/download/1.0.0.0/latest.zip",
     "LastUpdate": 1770484812
   }
 ]
