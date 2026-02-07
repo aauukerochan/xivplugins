@@ -4,8 +4,8 @@
     "Name": "Death Key Chord Plugin",
     "Description": "Sends key chord on death. Defaults to holding F24, but can be configured. Recommend to use with Push to Mute in Discord for silly reasons.",
     "InternalName": "DeathKeyChord",
-    "AssemblyVersion": "0.0.0.2",
-    "TestingAssemblyVersion": "0.0.0.2",
+    "AssemblyVersion": "0.0.0.3",
+    "TestingAssemblyVersion": "0.0.0.3",
     "RepoUrl": "https://github.com/aauukerochan/deathkeychord",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 14,
@@ -17,9 +17,9 @@
       "keychord",
       "death"
     ],
-    "DownloadLinkInstall": "https://github.com/aauukerochan/deathkeychord/releases/download/0.0.0.2/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/aauukerochan/deathkeychord/releases/download/0.0.0.2/latest.zip",
-    "DownloadLinkTesting": "https://github.com/aauukerochan/deathkeychord/releases/download/0.0.0.2/latest.zip",
+    "DownloadLinkInstall": "https://github.com/aauukerochan/deathkeychord/releases/download/0.0.0.3/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/aauukerochan/deathkeychord/releases/download/0.0.0.3/latest.zip",
+    "DownloadLinkTesting": "https://github.com/aauukerochan/deathkeychord/releases/download/0.0.0.3/latest.zip",
     "LastUpdate": 1770484812
   }
 ]
