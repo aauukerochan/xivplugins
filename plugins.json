@@ -1,16 +1,23 @@
-{
-  "Author": "aauukerochan",
-  "Name": "Death Key Chord Plugin",
-  "Punchline": "Sends key chord on death.",
-  "Description": "Sends key chord on death. Defaults to holding F24, but can be configured. Recommend to use with Push to Mute in Discord for silly reasons.",
-  "ApplicableVersion": "any",
-  "RepoUrl": "https://github.com/aauukerochan/deathkeychord",
-  "Tags": [
-    "discord",
-    "keychord",
-    "death"
-  ],
-  "DownloadLinkInstall": "https://github.com/aauukerochan/deathkeychord/releases/download/1.0/DeathKeyChord.zip",
-  "DownloadLinkUpdate": "https://github.com/aauukerochan/deathkeychord/releases/download/1.0/DeathKeyChord.zip",
-  "DownloadLinkTesting": "https://github.com/aauukerochan/deathkeychord/releases/download/1.0/DeathKeyChord.zip"
-}
+[
+  {
+    "Author": "aauukerochan",
+    "Name": "Death Key Chord Plugin",
+    "Description": "Sends key chord on death. Defaults to holding F24, but can be configured. Recommend to use with Push to Mute in Discord for silly reasons.",
+    "InternalName": "DeathChord",
+    "RepoUrl": "https://github.com/aauukerochan/deathkeychord",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 14,
+    "Punchline": "Sends key chord on death.",
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "Tags": [
+      "discord",
+      "keychord",
+      "death"
+    ],
+    "DownloadLinkInstall": "https://github.com/aauukerochan/deathkeychord/releases/download/1.0/DeathKeyChord.zip",
+    "DownloadLinkUpdate": "https://github.com/aauukerochan/deathkeychord/releases/download/1.0/DeathKeyChord.zip",
+    "DownloadLinkTesting": "https://github.com/aauukerochan/deathkeychord/releases/download/1.0/DeathKeyChord.zip",
+    "LastUpdate": 1770484812
+  }
+]
