@@ -5,6 +5,7 @@
     "Description": "Sends key chord on death. Defaults to holding F24, but can be configured. Recommend to use with Push to Mute in Discord for silly reasons.",
     "InternalName": "DeathChord",
     "AssemblyVersion": "1.0.0.0",
+    "TestingAssemblyVersion": null,
     "RepoUrl": "https://github.com/aauukerochan/deathkeychord",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 14,
